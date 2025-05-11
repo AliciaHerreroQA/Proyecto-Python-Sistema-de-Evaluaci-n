@@ -12,4 +12,4 @@ The **Student Grade Calculator** is a Python-based application that allows teach
 
 ## Author
 
-- **Alicia Herrero**: [Your Name](https://www.linkedin.com/in/alicia-herrero-323482177/)
+- **Alicia Herrero**: [Alicia Herrero Linkedin](https://www.linkedin.com/in/alicia-herrero-323482177/)
